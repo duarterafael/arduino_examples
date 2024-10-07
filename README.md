@@ -1,5 +1,5 @@
-# arduino_examples
-A set of example arduino projects for class.
+# Arduino Examples
+Um conjunto de exemplos apresentados em sala de aula.
  
 ## Blink Led
 Exemplo relacionado ao `Aula 10 - Introdução ao Arduino` e `Aula 11 - Saídas Digitais`, onde fazemos um led piscar.

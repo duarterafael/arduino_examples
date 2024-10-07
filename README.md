@@ -15,6 +15,29 @@ Exemplo relacionado ao `Aula 10 - Introdução ao Arduino` e `Aula 11 - Saídas 
 
 ### LED Challenge
 
-[Led Síncrono](https://www.tinkercad.com/things/0Idigwy2os1-led-sincronos)
+#### Leds Síncrono
+
+[Simulador](https://www.tinkercad.com/things/0Idigwy2os1-led-sincronos)
+
+[Source code](./Sincronized_Leds/Sincronized_Leds.ino)
+
+#### Leds Alternados
+
+[Simulador](https://www.tinkercad.com/things/f5pSL4FmAWL-leds-alternados)
+
+[Source code](./Alternating_LEDs/Alternating_LEDs.ino)
+
+#### Leds Alternados
+
+[Simulador](https://www.tinkercad.com/things/f5pSL4FmAWL-leds-alternados)
+
+[Source code](./Alternating_LEDs/Alternating_LEDs.ino)
+
+#### Leds Ritmadas
+
+[Simulador](https://www.tinkercad.com/things/dA42dmlr51q-leds-ritmadas)
+
+[Source code](./Alternating_LEDs/Alternating_LEDs.ino)
+
 
 

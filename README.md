@@ -2,7 +2,7 @@
 A set of example arduino projects for class.
  
 ## Blink Led
-Exemplo relacionado ao `Aula 10 - Introdução ao Arduino`, onde fazemos um led piscar.
+Exemplo relacionado ao `Aula 10 - Introdução ao Arduino` e `Aula 11 - Saídas Digitais`, onde fazemos um led piscar.
 
 
 [Simulador](https://www.tinkercad.com/things/ktN0x3f2SJb-blink-led)

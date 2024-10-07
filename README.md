@@ -11,7 +11,10 @@ Exemplo relacionado ao `Aula 10 - Introdução ao Arduino` e `Aula 11 - Saídas 
 
 ![Circuito](./Blink%20Led/Blink_Led/Blink_led.jpeg)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FLv0fAeoBck/0.jpg)](https://www.youtube.com/watch?v=FLv0fAeoBck)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2RZ8XGStIvs/0.jpg)](https://www.youtube.com/watch?v=2RZ8XGStIvs)
 
+### LED Challenge
+
+[Led Síncrono](https://www.tinkercad.com/things/0Idigwy2os1-led-sincronos)
 
 

@@ -27,12 +27,6 @@ Exemplo relacionado ao `Aula 10 - Introdução ao Arduino` e `Aula 11 - Saídas 
 
 [Source code](./Alternating_LEDs/Alternating_LEDs.ino)
 
-#### Leds Alternados
-
-[Simulador](https://www.tinkercad.com/things/f5pSL4FmAWL-leds-alternados)
-
-[Source code](./Alternating_LEDs/Alternating_LEDs.ino)
-
 #### Leds Ritmadas
 
 [Simulador](https://www.tinkercad.com/things/dA42dmlr51q-leds-ritmadas)

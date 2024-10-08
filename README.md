@@ -15,6 +15,12 @@ Exemplo relacionado ao `Aula 10 - Introdução ao Arduino` e `Aula 11 - Saídas 
 
 ### LED Challenge
 
+
+
+![Circuito](./Led_Challenger/Led_Challger.jpeg)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QCW97ERtWqE/0.jpg)](https://www.youtube.com/watch?v=QCW97ERtWqE)
+
 #### Leds Síncrono
 
 [Simulador](https://www.tinkercad.com/things/0Idigwy2os1-led-sincronos)

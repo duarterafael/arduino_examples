@@ -50,3 +50,37 @@ __Esse circuito não tem a necessidade de código relacionado.__
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jYq_huiRaH4/0.jpg)](https://www.youtube.com/watch?v=jYq_huiRaH4)
 
+### Botão mais complexo
+
+[Simulador](https://www.tinkercad.com/things/8ZIVBXm9NUW-botao-simples)
+
+[Source code](./Smart_Push_Button/Smart_Push_Button.ino)
+
+![Circuito](./Smart_Push_Button/Smart_Push_Button.jpeg)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DMLqTHtcvq8/0.jpg)](https://www.youtube.com/watch?v=DMLqTHtcvq8)
+
+### Desafio Botão com dois leds
+Quando o botão for pressionado, uma das LEDs deve acender, quando o botão for solto, outra LED deve acender.
+
+[Simulador](https://www.tinkercad.com/things/94CSyRGDmyl-desafio-botao-com-dois-leds)
+
+[Source code](./One_Button_Two_Alternating_LEDS_Challanger/One_Button_Two_Alternating_LEDS_Challanger.ino)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0Q5KDLIOVGg/0.jpg)](https://www.youtube.com/watch?v=0Q5KDLIOVGg)
+
+## Comunicação Serial
+
+### Exibindo o valor de uma variável pela Serial
+
+[Simulador](https://www.tinkercad.com/things/5rwW7FfrhYk-exibindo-o-valor-de-uma-variavel-pela-serial)
+
+[Source code](./Show_value__variable_through_Serial/Show_value__variable_through_Serial.ino)
+
+### Exibindo o estado do botão pela Serial
+
+[Simulador](https://www.tinkercad.com/things/agAcwTyRb4G-desafio-botao-com-dois-leds-com-serial)
+
+[Source code](./Show_Button_State_In_Serial_Output/Show_Button_State_In_Serial_Output.ino)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zLVnZbGI-m0/0.jpg)](https://www.youtube.com/watch?v=zLVnZbGI-m0)

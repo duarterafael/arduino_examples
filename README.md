@@ -84,3 +84,51 @@ Quando o botão for pressionado, uma das LEDs deve acender, quando o botão for 
 [Source code](./Show_Button_State_In_Serial_Output/Show_Button_State_In_Serial_Output.ino)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zLVnZbGI-m0/0.jpg)](https://www.youtube.com/watch?v=zLVnZbGI-m0)
+
+### Leitura de Dados Seriais
+
+[Simulador](https://www.tinkercad.com/things/2VdzJEdY7IJ-leitura-de-dados-seriais)
+
+[Source code](./Serial_Input_Led/Serial_Input_Led.ino)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zLVnZbGI-m0/0.jpg)](https://www.youtube.com/watch?v=zLVnZbGI-m0)
+
+### Desafío: Semáforo Serial
+
+[Simulador](https://www.tinkercad.com/things/atsWRupcOJI-desafio-semaforo-serial)
+
+[Source code](./Challenge_Serial_Traffic_Light/Challenge_Serial_Traffic_Light.ino)
+
+
+## Entradas Analógicas
+
+### Leitura dados Potenciômetro
+
+[Simulador](https://www.tinkercad.com/things/4cCe5GLhZro-dados-potenciometro)
+
+[Source code](./potentiometer/potentiometer.ino)
+
+### Desafio: Poste com LDR
+
+[Simulador](https://www.tinkercad.com/things/4REiulvRIdV-desafio-poste-ldr)
+
+[Source code](./Challenge_LDR_Traffic_Light/Challenge_LDR_Traffic_Light.ino)
+
+
+## Saída Analógica
+
+### Dimmer
+
+[Simulador](https://www.tinkercad.com/things/5iCP23oJetC-dimmer)
+
+[Source code](./Analogic_out_dimmer/Analogic_out_dimmer.ino)
+
+### Dimmer com a função mapper
+
+[Simulador](https://www.tinkercad.com/things/d8dovlpfGX2-dimmer-com-a-funcao-mapper)
+
+[Source code](./Analogic_out_dimmer/Analogic_out_dimmer.ino)
+
+### LED RGB randômico
+
+[Simulador](https://www.tinkercad.com/things/2Pi7VmL2yGo-led-rbg-random)

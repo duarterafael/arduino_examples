@@ -37,7 +37,7 @@ Os sketches estão em [`arduino_examples-improved/`](./arduino_examples-improved
 
 ## Pré-requisitos
 
-- **Hardware:** Arduino UNO (ou compatível), cabo USB tipo B, protoboard, jumpers, LEDs, resistores 220 Ω, push buttons, potenciômetro 10 kΩ. Alguns exemplos usam DHT11 e LDR.
+- **Hardware:** Arduino UNO (ou compatível), cabo USB tipo B, protoboard, jumpers, LEDs, resistores 220 Ω, push buttons, potenciômetro 10 kΩ. Alguns exemplos usam DHT11.
 - **Software:** [Arduino IDE 2.x](https://www.arduino.cc/en/software).
 - **Bibliotecas externas** (instalar via *Library Manager*):
   - `DHT sensor library` (Adafruit) — usado no exemplo 12.
